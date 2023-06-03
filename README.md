@@ -12,7 +12,7 @@ $ cd Edulogy-Scrapper
 $ python3 edulog.py
 ```
 
-Windows (Not Tested
+Windows (Not Tested)
 ```
 $ pip install selenium
 $ cd Edulogy-Scrapper
