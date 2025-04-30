@@ -1,7 +1,5 @@
 ## Edulogy-Scrapper
 
-Ytta
-
 ## Setup
 To run this project, install package called selenium
 
